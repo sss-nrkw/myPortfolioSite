@@ -1,7 +1,7 @@
 // components/Layout.jsx
 
-import Navbar from '/src/components/navbar.jsx';
-import Footer from '/src/components/footer.jsx';
+import Navbar from '@/components/Navbar';
+import Footer from '@/components/Footer';
 
 const Layout = ({ children }) => {
     return (
